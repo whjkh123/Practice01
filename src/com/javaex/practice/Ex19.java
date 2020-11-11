@@ -13,8 +13,8 @@ public class Ex19 {
 		
 		long result = ((((speed * 60L) * 60L) * 24L) * 365L);		
 		
-		System.out.print("빛이 1년 동안 가는 거리는" + result + "km 입니다.");
-		sc.close();
+		System.out.print("빛이 1년 동안 가는 거리는 " + result + "km 입니다.");
+		
 		
 		
 		
