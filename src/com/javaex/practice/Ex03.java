@@ -10,9 +10,9 @@ public class Ex03 {
 		int b = y++ * 2;
 		
 		System.out.println("a=" + a);//4
-		System.out.println("b" + b);//4
-		System.out.println("x" + x);//2
-		System.out.println("y" + y);//2
+		System.out.println("b=" + b);//2		
+		System.out.println("x=" + x);//2
+		System.out.println("y=" + y);//2
 	}
 
 }
